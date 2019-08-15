@@ -14,6 +14,21 @@
       "id": 3,
       "title": "Learn REST API",
       "description": "Learn how to build a RESTful Web API with Express"
+    },
+    {
+      "id": 4,
+      "title": "Learn Vue.js",
+      "description": "Learn Vue.js basics"
+    },
+    {
+      "id": 5,
+      "title": "Learn React.js",
+      "description": "Learn React.js basics"
+    },
+    {
+      "id": 6,
+      "title": "Learn Redis",
+      "description": "Learn Redis for caching"
     }
   ]
 }
