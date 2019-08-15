@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "description": "Learn JavaScript foundations"
+    },
+    {
+      "id": 2,
+      "title": "Learn Express",
+      "description": "Learn how to create an app with Node.js and Express"
+    },
+    {
+      "id": 3,
+      "title": "Learn REST API",
+      "description": "Learn how to build a RESTful Web API with Express"
+    }
+  ]
+}
